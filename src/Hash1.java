@@ -4,7 +4,7 @@ import java.util.*;
  Question's URL: https://programmers.co.kr/learn/courses/30/lessons/42576
 */
 
-class Solution {
+class Hash1 {
     public String solution(String[] participant, String[] completion) {
         String answer = "";
         Arrays.sort(participant);
